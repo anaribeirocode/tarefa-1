@@ -7,6 +7,18 @@ Este repositório contém uma tarefas de programação que desenvolvi como parte
 - **Problemas de Programação:** Desafios de código que abordam diversos conceitos, como lógica, arrays, objetos, função, _entre outros_.
 - **Resoluções:** As tentativas de soluções implementadas para cada um dos problemas propostos.
 
+📑 **Índice**
+
+_PARTE 1_
+- Teste 1: Manipulação de Arrays e Objetos
+- Teste 2: Função Assíncrona
+- Teste 3: Contagem de Ocorrências
+- Teste 4: Agrupamento de Objetos
+- Teste 5: Mesclar Arrays de Objetos
+
+_PARTE 2_
+- Teste React: Componente de Lista de Tarefas  
+
 🚀 **Tecnologias Utilizadas**
 
 - [JavaScript e React]
