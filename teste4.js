@@ -6,18 +6,19 @@ const items = [
     { name: 'broccoli', category: 'vegetable' }
 
   ];
+const category = item.category;
 
 function groupByCategory () {
     return items
         .reduce((result, item) => {
-        const category = item.category;
         if (!result[category]) {
             result[category] = []; 
    }
-   result[category].push(item);
-    return result; 
+   result[category]
+       .push(item);
+return result; 
     },{});
     
 }
-const groupedItems = groupByCategory(items);
-console.log(groupedItems);
+const groupOfItems = groupByCategory(items);
+console.log(groupOfItems);
